@@ -10,9 +10,19 @@ Espera-se que os resultados deste estudo forneçam ferramentas eficazes para emb
 
 # ESTTRUTURA DO PROJETO
 
+    Em breve...
+
 # DEPENDENCIAS
 
-    - igraph
-    - numpy
-    - pandas
-    - matplotlib
+    - matplotlib==3.8.4
+    - networkx==3.3
+    - numpy==1.26.4
+    - pandas==2.2.2
+    - pycairo==1.20.1
+    - scipy==1.13.0
+    - igraph==0.11.4
+
+    Tambem será necessário a execução de seguinte comando para a instação dos demais libs:
+    sudo apt-get install texlive-latex-extra texlive-fonts-recommended dvipng cm-super
+
+O ficherio "cases-brazil-cities-time.csv" pode ser encontrado no seguinte link: [https://github.com/wcota/covid19br/blob/master/DESCRIPTION.md](https://github.com/wcota/covid19br/blob/master/DESCRIPTION.md)

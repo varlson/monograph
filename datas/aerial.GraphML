@@ -1,0 +1,4313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_geocode" for="node" attr.name="geocode" attr.type="double"/>
+  <key id="v_NOMEMUN" for="node" attr.name="NOMEMUN" attr.type="string"/>
+  <key id="v_x" for="node" attr.name="x" attr.type="double"/>
+  <key id="v_y" for="node" attr.name="y" attr.type="double"/>
+  <key id="v_size" for="node" attr.name="size" attr.type="double"/>
+  <key id="e_id" for="edge" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_width" for="edge" attr.name="width" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_geocode">1100049</data>
+      <data key="v_NOMEMUN">Cacoal</data>
+      <data key="v_x">-61,32473</data>
+      <data key="v_y">-11,30129</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n1">
+      <data key="v_geocode">5103403</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Cuiabá/MT</data>
+      <data key="v_x">-55,95447</data>
+      <data key="v_y">-15,45261</data>
+      <data key="v_size">14,056338028169</data>
+    </node>
+    <node id="n2">
+      <data key="v_geocode">5002704</data>
+      <data key="v_NOMEMUN">Campo Grande</data>
+      <data key="v_x">-54,24969</data>
+      <data key="v_y">-20,91317</data>
+      <data key="v_size">11,3521126760563</data>
+    </node>
+    <node id="n3">
+      <data key="v_geocode">1100122</data>
+      <data key="v_NOMEMUN">Ji-Paraná</data>
+      <data key="v_x">-61,75725</data>
+      <data key="v_y">-10,46222</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n4">
+      <data key="v_geocode">3509502</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Campinas/SP</data>
+      <data key="v_x">-47,0438</data>
+      <data key="v_y">-22,88376</data>
+      <data key="v_size">17,7746478873239</data>
+    </node>
+    <node id="n5">
+      <data key="v_geocode">1200203</data>
+      <data key="v_NOMEMUN">Cruzeiro do Sul</data>
+      <data key="v_x">-72,75488</data>
+      <data key="v_y">-7,97194</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n6">
+      <data key="v_geocode">1301704</data>
+      <data key="v_NOMEMUN">Humaitá</data>
+      <data key="v_x">-62,48617</data>
+      <data key="v_y">-7,36155</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n7">
+      <data key="v_geocode">1302405</data>
+      <data key="v_NOMEMUN">Lábrea</data>
+      <data key="v_x">-65,81166</data>
+      <data key="v_y">-8,3756</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n8">
+      <data key="v_geocode">1302603</data>
+      <data key="v_NOMEMUN">Manaus</data>
+      <data key="v_x">-60,25963</data>
+      <data key="v_y">-2,62592</data>
+      <data key="v_size">13,1549295774648</data>
+    </node>
+    <node id="n9">
+      <data key="v_geocode">5300108</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Brasília/DF</data>
+      <data key="v_x">-47,79736</data>
+      <data key="v_y">-15,78069</data>
+      <data key="v_size">14,8450704225352</data>
+    </node>
+    <node id="n10">
+      <data key="v_geocode">5208707</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Goiânia/GO</data>
+      <data key="v_x">-49,27419</data>
+      <data key="v_y">-16,64333</data>
+      <data key="v_size">12,1408450704225</data>
+    </node>
+    <node id="n11">
+      <data key="v_geocode">3106200</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Belo Horizonte/MG</data>
+      <data key="v_x">-43,95988</data>
+      <data key="v_y">-19,90274</data>
+      <data key="v_size">15,4084507042254</data>
+    </node>
+    <node id="n12">
+      <data key="v_geocode">5107909</data>
+      <data key="v_NOMEMUN">Sinop</data>
+      <data key="v_x">-55,50015</data>
+      <data key="v_y">-11,71172</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n13">
+      <data key="v_geocode">1100205</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Porto Velho/RO</data>
+      <data key="v_x">-64,30681</data>
+      <data key="v_y">-9,15359</data>
+      <data key="v_size">11,3521126760563</data>
+    </node>
+    <node id="n14">
+      <data key="v_geocode">1100304</data>
+      <data key="v_NOMEMUN">Vilhena</data>
+      <data key="v_x">-60,24842</data>
+      <data key="v_y">-12,09562</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n15">
+      <data key="v_geocode">3543402</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Ribeirão Preto/SP</data>
+      <data key="v_x">-47,8213</data>
+      <data key="v_y">-21,21084</data>
+      <data key="v_size">13,7183098591549</data>
+    </node>
+    <node id="n16">
+      <data key="v_geocode">3549805</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de São José do Rio Preto/SP</data>
+      <data key="v_x">-49,35811</data>
+      <data key="v_y">-20,79723</data>
+      <data key="v_size">11,1267605633803</data>
+    </node>
+    <node id="n17">
+      <data key="v_geocode">3550308</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de São Paulo/SP</data>
+      <data key="v_x">-46,64811</data>
+      <data key="v_y">-23,65008</data>
+      <data key="v_size">18</data>
+    </node>
+    <node id="n18">
+      <data key="v_geocode">3304557</data>
+      <data key="v_NOMEMUN">Arranjo Populacional do Rio de Janeiro/RJ</data>
+      <data key="v_x">-43,45093</data>
+      <data key="v_y">-22,92322</data>
+      <data key="v_size">14,169014084507</data>
+    </node>
+    <node id="n19">
+      <data key="v_geocode">1200401</data>
+      <data key="v_NOMEMUN">Rio Branco</data>
+      <data key="v_x">-68,37104</data>
+      <data key="v_y">-10,06615</data>
+      <data key="v_size">10,5633802816901</data>
+    </node>
+    <node id="n20">
+      <data key="v_geocode">1506807</data>
+      <data key="v_NOMEMUN">Santarém</data>
+      <data key="v_x">-55,23846</data>
+      <data key="v_y">-2,67934</data>
+      <data key="v_size">11,8028169014085</data>
+    </node>
+    <node id="n21">
+      <data key="v_geocode">1501402</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Belém/PA</data>
+      <data key="v_x">-48,45991</data>
+      <data key="v_y">-1,24072</data>
+      <data key="v_size">13,2676056338028</data>
+    </node>
+    <node id="n22">
+      <data key="v_geocode">1400100</data>
+      <data key="v_NOMEMUN">Boa Vista</data>
+      <data key="v_x">-60,71795</data>
+      <data key="v_y">3,11792</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n23">
+      <data key="v_geocode">2611606</data>
+      <data key="v_NOMEMUN">Arranjo Populacional do Recife/PE</data>
+      <data key="v_x">-34,93317</data>
+      <data key="v_y">-8,03923</data>
+      <data key="v_size">14,5070422535211</data>
+    </node>
+    <node id="n24">
+      <data key="v_geocode">1304203</data>
+      <data key="v_NOMEMUN">Tefé</data>
+      <data key="v_x">-65,53154</data>
+      <data key="v_y">-4,47011</data>
+      <data key="v_size">10,7887323943662</data>
+    </node>
+    <node id="n25">
+      <data key="v_geocode">2304400</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Fortaleza/CE</data>
+      <data key="v_x">-38,5277</data>
+      <data key="v_y">-3,78566</data>
+      <data key="v_size">12,7042253521127</data>
+    </node>
+    <node id="n26">
+      <data key="v_geocode">1500602</data>
+      <data key="v_NOMEMUN">Altamira</data>
+      <data key="v_x">-53,88668</data>
+      <data key="v_y">-6,48617</data>
+      <data key="v_size">10,5633802816901</data>
+    </node>
+    <node id="n27">
+      <data key="v_geocode">4106902</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Curitiba/PR</data>
+      <data key="v_x">-49,28826</data>
+      <data key="v_y">-25,47789</data>
+      <data key="v_size">13,2676056338028</data>
+    </node>
+    <node id="n28">
+      <data key="v_geocode">4115200</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Maringá/PR</data>
+      <data key="v_x">-51,9678</data>
+      <data key="v_y">-23,40095</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n29">
+      <data key="v_geocode">4314902</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Porto Alegre/RS</data>
+      <data key="v_x">-51,16507</data>
+      <data key="v_y">-30,09539</data>
+      <data key="v_size">13,3802816901408</data>
+    </node>
+    <node id="n30">
+      <data key="v_geocode">4205407</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Florianópolis/SC</data>
+      <data key="v_x">-48,50817</data>
+      <data key="v_y">-27,5779</data>
+      <data key="v_size">11,2394366197183</data>
+    </node>
+    <node id="n31">
+      <data key="v_geocode">1300409</data>
+      <data key="v_NOMEMUN">Barcelos</data>
+      <data key="v_x">-63,43481</data>
+      <data key="v_y">-0,46518</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n32">
+      <data key="v_geocode">1303809</data>
+      <data key="v_NOMEMUN">São Gabriel da Cachoeira</data>
+      <data key="v_x">-67,99693</data>
+      <data key="v_y">0,3749</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n33">
+      <data key="v_geocode">1300706</data>
+      <data key="v_NOMEMUN">Boca do Acre</data>
+      <data key="v_x">-68,04763</data>
+      <data key="v_y">-8,77315</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n34">
+      <data key="v_geocode">1300805</data>
+      <data key="v_NOMEMUN">Borba</data>
+      <data key="v_x">-59,53469</data>
+      <data key="v_y">-4,95762</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n35">
+      <data key="v_geocode">1302702</data>
+      <data key="v_NOMEMUN">Manicoré</data>
+      <data key="v_x">-61,44661</data>
+      <data key="v_y">-6,45944</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n36">
+      <data key="v_geocode">1301001</data>
+      <data key="v_NOMEMUN">Carauari</data>
+      <data key="v_x">-67,33747</data>
+      <data key="v_y">-5,11852</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n37">
+      <data key="v_geocode">1301209</data>
+      <data key="v_NOMEMUN">Coari</data>
+      <data key="v_x">-64,12531</data>
+      <data key="v_y">-4,43635</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n38">
+      <data key="v_geocode">1301407</data>
+      <data key="v_NOMEMUN">Eirunepé</data>
+      <data key="v_x">-70,21825</data>
+      <data key="v_y">-7,022</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n39">
+      <data key="v_geocode">1301605</data>
+      <data key="v_NOMEMUN">Fonte Boa</data>
+      <data key="v_x">-66,35792</data>
+      <data key="v_y">-2,49099</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n40">
+      <data key="v_geocode">1303908</data>
+      <data key="v_NOMEMUN">São Paulo de Olivença</data>
+      <data key="v_x">-69,45112</data>
+      <data key="v_y">-4,50144</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n41">
+      <data key="v_geocode">1304062</data>
+      <data key="v_NOMEMUN">Tabatinga</data>
+      <data key="v_x">-69,67809</data>
+      <data key="v_y">-4,02852</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n42">
+      <data key="v_geocode">1302900</data>
+      <data key="v_NOMEMUN">Maués</data>
+      <data key="v_x">-58,06092</data>
+      <data key="v_y">-4,98478</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n43">
+      <data key="v_geocode">3205309</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Vitória/ES</data>
+      <data key="v_x">-39,13743</data>
+      <data key="v_y">-20,30221</data>
+      <data key="v_size">11,2394366197183</data>
+    </node>
+    <node id="n44">
+      <data key="v_geocode">1303403</data>
+      <data key="v_NOMEMUN">Parintins</data>
+      <data key="v_x">-56,85409</data>
+      <data key="v_y">-2,6884</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n45">
+      <data key="v_geocode">1600303</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Macapá/AP</data>
+      <data key="v_x">-50,7016</data>
+      <data key="v_y">0,55464</data>
+      <data key="v_size">11,0140845070423</data>
+    </node>
+    <node id="n46">
+      <data key="v_geocode">2408102</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Natal/RN</data>
+      <data key="v_x">-35,22891</data>
+      <data key="v_y">-5,80318</data>
+      <data key="v_size">11,6901408450704</data>
+    </node>
+    <node id="n47">
+      <data key="v_geocode">2111300</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de São Luís/MA</data>
+      <data key="v_x">-44,30713</data>
+      <data key="v_y">-2,63148</data>
+      <data key="v_size">11,5774647887324</data>
+    </node>
+    <node id="n48">
+      <data key="v_geocode">1505304</data>
+      <data key="v_NOMEMUN">Oriximiná</data>
+      <data key="v_x">-57,14992</data>
+      <data key="v_y">0,25509</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n49">
+      <data key="v_geocode">1503606</data>
+      <data key="v_NOMEMUN">Itaituba</data>
+      <data key="v_x">-56,49672</data>
+      <data key="v_y">-5,87114</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n50">
+      <data key="v_geocode">1303601</data>
+      <data key="v_NOMEMUN">Santa Isabel do Rio Negro</data>
+      <data key="v_x">-65,52133</data>
+      <data key="v_y">-0,31836</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n51">
+      <data key="v_geocode">2927408</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Salvador/BA</data>
+      <data key="v_x">-38,51476</data>
+      <data key="v_y">-12,87342</data>
+      <data key="v_size">13,1549295774648</data>
+    </node>
+    <node id="n52">
+      <data key="v_geocode">3170206</data>
+      <data key="v_NOMEMUN">Uberlândia</data>
+      <data key="v_x">-48,33174</data>
+      <data key="v_y">-19,02777</data>
+      <data key="v_size">11,2394366197183</data>
+    </node>
+    <node id="n53">
+      <data key="v_geocode">5100250</data>
+      <data key="v_NOMEMUN">Alta Floresta</data>
+      <data key="v_x">-56,36669</data>
+      <data key="v_y">-10,05549</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n54">
+      <data key="v_geocode">1504208</data>
+      <data key="v_NOMEMUN">Marabá</data>
+      <data key="v_x">-50,01696</data>
+      <data key="v_y">-5,6298</data>
+      <data key="v_size">11,0140845070423</data>
+    </node>
+    <node id="n55">
+      <data key="v_geocode">1505536</data>
+      <data key="v_NOMEMUN">Parauapebas</data>
+      <data key="v_x">-50,48977</data>
+      <data key="v_y">-6,15173</data>
+      <data key="v_size">10,5633802816901</data>
+    </node>
+    <node id="n56">
+      <data key="v_geocode">1508100</data>
+      <data key="v_NOMEMUN">Tucuruí</data>
+      <data key="v_x">-49,82102</data>
+      <data key="v_y">-3,85602</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n57">
+      <data key="v_geocode">4108304</data>
+      <data key="v_NOMEMUN">Arranjo Populacional Internacional de Foz do Iguaçu/Brasil - Ciudad del Este/Paraguai</data>
+      <data key="v_x">-54,48321</data>
+      <data key="v_y">-25,46605</data>
+      <data key="v_size">10,9014084507042</data>
+    </node>
+    <node id="n58">
+      <data key="v_geocode">2800308</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Aracaju/SE</data>
+      <data key="v_x">-37,09491</data>
+      <data key="v_y">-10,99416</data>
+      <data key="v_size">10,7887323943662</data>
+    </node>
+    <node id="n59">
+      <data key="v_geocode">3549904</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de São José dos Campos/SP</data>
+      <data key="v_x">-45,92854</data>
+      <data key="v_y">-23,09057</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n60">
+      <data key="v_geocode">1702109</data>
+      <data key="v_NOMEMUN">Araguaína</data>
+      <data key="v_x">-48,58784</data>
+      <data key="v_y">-7,33167</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n61">
+      <data key="v_geocode">1500404</data>
+      <data key="v_NOMEMUN">Alenquer</data>
+      <data key="v_x">-55,03916</data>
+      <data key="v_y">-0,60468</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n62">
+      <data key="v_geocode">1504802</data>
+      <data key="v_NOMEMUN">Monte Alegre</data>
+      <data key="v_x">-54,35305</data>
+      <data key="v_y">-1,0744</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n63">
+      <data key="v_geocode">1505106</data>
+      <data key="v_NOMEMUN">Óbidos</data>
+      <data key="v_x">-55,67504</data>
+      <data key="v_y">-0,16992</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n64">
+      <data key="v_geocode">2105302</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Imperatriz/MA</data>
+      <data key="v_x">-47,57524</data>
+      <data key="v_y">-5,33977</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n65">
+      <data key="v_geocode">1501808</data>
+      <data key="v_NOMEMUN">Breves</data>
+      <data key="v_x">-50,62816</data>
+      <data key="v_y">-1,12108</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n66">
+      <data key="v_geocode">1505908</data>
+      <data key="v_NOMEMUN">Porto de Moz</data>
+      <data key="v_x">-52,54775</data>
+      <data key="v_y">-2,18459</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n67">
+      <data key="v_geocode">1721000</data>
+      <data key="v_NOMEMUN">Palmas</data>
+      <data key="v_x">-48,15376</data>
+      <data key="v_y">-10,21848</data>
+      <data key="v_size">11,2394366197183</data>
+    </node>
+    <node id="n68">
+      <data key="v_geocode">1600279</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Laranjal do Jari/AP - Almeirim/PA</data>
+      <data key="v_x">-53,31055</data>
+      <data key="v_y">1,10136</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n69">
+      <data key="v_geocode">2211001</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Teresina/PI</data>
+      <data key="v_x">-42,7407</data>
+      <data key="v_y">-5,10252</data>
+      <data key="v_size">11,2394366197183</data>
+    </node>
+    <node id="n70">
+      <data key="v_geocode">1502509</data>
+      <data key="v_NOMEMUN">Chaves</data>
+      <data key="v_x">-49,82928</data>
+      <data key="v_y">-0,02952</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n71">
+      <data key="v_geocode">1502707</data>
+      <data key="v_NOMEMUN">Conceição do Araguaia</data>
+      <data key="v_x">-49,51271</data>
+      <data key="v_y">-8,18249</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n72">
+      <data key="v_geocode">1505437</data>
+      <data key="v_NOMEMUN">Ourilândia do Norte</data>
+      <data key="v_x">-51,43094</data>
+      <data key="v_y">-7,52055</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n73">
+      <data key="v_geocode">1505502</data>
+      <data key="v_NOMEMUN">Paragominas</data>
+      <data key="v_x">-47,60317</data>
+      <data key="v_y">-3,20346</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n74">
+      <data key="v_geocode">1506138</data>
+      <data key="v_NOMEMUN">Redenção</data>
+      <data key="v_x">-50,19812</data>
+      <data key="v_y">-8,06933</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n75">
+      <data key="v_geocode">1506708</data>
+      <data key="v_NOMEMUN">Santana do Araguaia</data>
+      <data key="v_x">-50,61128</data>
+      <data key="v_y">-9,36406</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n76">
+      <data key="v_geocode">1507300</data>
+      <data key="v_NOMEMUN">São Félix do Xingu</data>
+      <data key="v_x">-52,2527</data>
+      <data key="v_y">-7,23336</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n77">
+      <data key="v_geocode">4208203</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Itajaí - Balneário Camboriú/SC</data>
+      <data key="v_x">-48,75315</data>
+      <data key="v_y">-26,96873</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n78">
+      <data key="v_geocode">1503903</data>
+      <data key="v_NOMEMUN">Juruti</data>
+      <data key="v_x">-56,22137</data>
+      <data key="v_y">-2,62288</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n79">
+      <data key="v_geocode">5213087</data>
+      <data key="v_NOMEMUN">Minaçu</data>
+      <data key="v_x">-48,34894</data>
+      <data key="v_y">-13,49875</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n80">
+      <data key="v_geocode">5103353</data>
+      <data key="v_NOMEMUN">Confresa</data>
+      <data key="v_x">-51,69806</data>
+      <data key="v_y">-10,40327</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n81">
+      <data key="v_geocode">1709500</data>
+      <data key="v_NOMEMUN">Gurupi</data>
+      <data key="v_x">-48,88664</data>
+      <data key="v_y">-11,65206</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n82">
+      <data key="v_geocode">5107859</data>
+      <data key="v_NOMEMUN">São Félix do Araguaia</data>
+      <data key="v_x">-51,96852</data>
+      <data key="v_y">-11,45363</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n83">
+      <data key="v_geocode">2102804</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Carolina/MA</data>
+      <data key="v_x">-47,20272</data>
+      <data key="v_y">-7,37326</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n84">
+      <data key="v_geocode">3170107</data>
+      <data key="v_NOMEMUN">Uberaba</data>
+      <data key="v_x">-47,97716</data>
+      <data key="v_y">-19,58093</data>
+      <data key="v_size">10,5633802816901</data>
+    </node>
+    <node id="n85">
+      <data key="v_geocode">3506003</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Bauru/SP</data>
+      <data key="v_x">-49,12613</data>
+      <data key="v_y">-22,25399</data>
+      <data key="v_size">10,7887323943662</data>
+    </node>
+    <node id="n86">
+      <data key="v_geocode">3502804</data>
+      <data key="v_NOMEMUN">Araçatuba</data>
+      <data key="v_x">-50,5745</data>
+      <data key="v_y">-21,11386</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n87">
+      <data key="v_geocode">2103307</data>
+      <data key="v_NOMEMUN">Codó</data>
+      <data key="v_x">-43,88599</data>
+      <data key="v_y">-4,60724</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n88">
+      <data key="v_geocode">2108207</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Pedreiras/MA</data>
+      <data key="v_x">-44,58133</data>
+      <data key="v_y">-4,61825</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n89">
+      <data key="v_geocode">2704302</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Maceió/AL</data>
+      <data key="v_x">-35,71134</data>
+      <data key="v_y">-9,52241</data>
+      <data key="v_size">12,0281690140845</data>
+    </node>
+    <node id="n90">
+      <data key="v_geocode">2207702</data>
+      <data key="v_NOMEMUN">Parnaíba</data>
+      <data key="v_x">-41,75348</data>
+      <data key="v_y">-2,96008</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n91">
+      <data key="v_geocode">2925303</data>
+      <data key="v_NOMEMUN">Porto Seguro</data>
+      <data key="v_x">-39,27899</data>
+      <data key="v_y">-16,625</data>
+      <data key="v_size">11,9154929577465</data>
+    </node>
+    <node id="n92">
+      <data key="v_geocode">2507507</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de João Pessoa/PB</data>
+      <data key="v_x">-34,86978</data>
+      <data key="v_y">-7,1654</data>
+      <data key="v_size">10,9014084507042</data>
+    </node>
+    <node id="n93">
+      <data key="v_geocode">4113700</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Londrina/PR</data>
+      <data key="v_x">-51,11038</data>
+      <data key="v_y">-23,51425</data>
+      <data key="v_size">10,9014084507042</data>
+    </node>
+    <node id="n94">
+      <data key="v_geocode">2301109</data>
+      <data key="v_NOMEMUN">Aracati</data>
+      <data key="v_x">-37,68676</data>
+      <data key="v_y">-4,6805</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n95">
+      <data key="v_geocode">2408003</data>
+      <data key="v_NOMEMUN">Mossoró</data>
+      <data key="v_x">-37,32553</data>
+      <data key="v_y">-5,17581</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n96">
+      <data key="v_geocode">2304103</data>
+      <data key="v_NOMEMUN">Crateús</data>
+      <data key="v_x">-40,71962</data>
+      <data key="v_y">-5,1989</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n97">
+      <data key="v_geocode">2304251</data>
+      <data key="v_NOMEMUN">Cruz</data>
+      <data key="v_x">-40,3263</data>
+      <data key="v_y">-2,89627</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n98">
+      <data key="v_geocode">2307304</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Juazeiro do Norte/CE</data>
+      <data key="v_x">-39,28863</data>
+      <data key="v_y">-7,18125</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n99">
+      <data key="v_geocode">2504009</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Campina Grande/PB</data>
+      <data key="v_x">-35,96636</data>
+      <data key="v_y">-7,26348</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n100">
+      <data key="v_geocode">2611101</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Petrolina/PE - Juazeiro/BA</data>
+      <data key="v_x">-40,57236</data>
+      <data key="v_y">-9,01979</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n101">
+      <data key="v_geocode">2305506</data>
+      <data key="v_NOMEMUN">Iguatu</data>
+      <data key="v_x">-39,27843</data>
+      <data key="v_y">-6,35626</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n102">
+      <data key="v_geocode">2312304</data>
+      <data key="v_NOMEMUN">São Benedito</data>
+      <data key="v_x">-40,97382</data>
+      <data key="v_y">-4,04132</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n103">
+      <data key="v_geocode">2312908</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Sobral/CE</data>
+      <data key="v_x">-40,22671</data>
+      <data key="v_y">-3,80974</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n104">
+      <data key="v_geocode">2313302</data>
+      <data key="v_NOMEMUN">Tauá</data>
+      <data key="v_x">-40,25953</data>
+      <data key="v_y">-5,93711</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n105">
+      <data key="v_geocode">2605459</data>
+      <data key="v_NOMEMUN">Fernando de Noronha</data>
+      <data key="v_x">-32,4268</data>
+      <data key="v_y">-3,8573</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n106">
+      <data key="v_geocode">2510808</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Patos/PB</data>
+      <data key="v_x">-37,31791</data>
+      <data key="v_y">-6,99498</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n107">
+      <data key="v_geocode">2604106</data>
+      <data key="v_NOMEMUN">Caruaru</data>
+      <data key="v_x">-36,01659</data>
+      <data key="v_y">-8,17998</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n108">
+      <data key="v_geocode">3143302</data>
+      <data key="v_NOMEMUN">Montes Claros</data>
+      <data key="v_x">-43,92947</data>
+      <data key="v_y">-16,61906</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n109">
+      <data key="v_geocode">2924009</data>
+      <data key="v_NOMEMUN">Paulo Afonso</data>
+      <data key="v_x">-38,2968</data>
+      <data key="v_y">-9,53804</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n110">
+      <data key="v_geocode">3541406</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Presidente Prudente/SP</data>
+      <data key="v_x">-51,34313</data>
+      <data key="v_y">-21,99315</data>
+      <data key="v_size">10,9014084507042</data>
+    </node>
+    <node id="n111">
+      <data key="v_geocode">2910800</data>
+      <data key="v_NOMEMUN">Feira de Santana</data>
+      <data key="v_x">-39,03727</data>
+      <data key="v_y">-12,18978</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n112">
+      <data key="v_geocode">2919306</data>
+      <data key="v_NOMEMUN">Lençóis</data>
+      <data key="v_x">-41,33729</data>
+      <data key="v_y">-12,42499</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n113">
+      <data key="v_geocode">2913606</data>
+      <data key="v_NOMEMUN">Ilhéus</data>
+      <data key="v_x">-39,19219</data>
+      <data key="v_y">-14,75269</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n114">
+      <data key="v_geocode">3170701</data>
+      <data key="v_NOMEMUN">Varginha</data>
+      <data key="v_x">-45,40911</data>
+      <data key="v_y">-21,55748</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n115">
+      <data key="v_geocode">2612208</data>
+      <data key="v_NOMEMUN">Salgueiro</data>
+      <data key="v_x">-39,09087</data>
+      <data key="v_y">-8,12904</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n116">
+      <data key="v_geocode">2613909</data>
+      <data key="v_NOMEMUN">Serra Talhada</data>
+      <data key="v_x">-38,36973</data>
+      <data key="v_y">-8,0361</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n117">
+      <data key="v_geocode">2903201</data>
+      <data key="v_NOMEMUN">Barreiras</data>
+      <data key="v_x">-45,52001</data>
+      <data key="v_y">-12,00996</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n118">
+      <data key="v_geocode">2933307</data>
+      <data key="v_NOMEMUN">Vitória da Conquista</data>
+      <data key="v_x">-40,90217</data>
+      <data key="v_y">-14,97481</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n119">
+      <data key="v_geocode">2903904</data>
+      <data key="v_NOMEMUN">Bom Jesus da Lapa</data>
+      <data key="v_x">-43,29339</data>
+      <data key="v_y">-13,27715</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n120">
+      <data key="v_geocode">2911709</data>
+      <data key="v_NOMEMUN">Guanambi</data>
+      <data key="v_x">-42,82004</data>
+      <data key="v_y">-14,20396</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n121">
+      <data key="v_geocode">2932507</data>
+      <data key="v_NOMEMUN">Una</data>
+      <data key="v_x">-39,14821</data>
+      <data key="v_y">-15,2331</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n122">
+      <data key="v_geocode">3127701</data>
+      <data key="v_NOMEMUN">Governador Valadares</data>
+      <data key="v_x">-41,96356</data>
+      <data key="v_y">-18,78343</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n123">
+      <data key="v_geocode">3131307</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Ipatinga/MG</data>
+      <data key="v_x">-42,60092</data>
+      <data key="v_y">-19,43897</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n124">
+      <data key="v_geocode">3525904</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Jundiaí/SP</data>
+      <data key="v_x">-46,91301</data>
+      <data key="v_y">-23,1946</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n125">
+      <data key="v_geocode">2931350</data>
+      <data key="v_NOMEMUN">Teixeira de Freitas</data>
+      <data key="v_x">-39,78688</data>
+      <data key="v_y">-17,4241</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n126">
+      <data key="v_geocode">2932903</data>
+      <data key="v_NOMEMUN">Valença</data>
+      <data key="v_x">-39,19385</data>
+      <data key="v_y">-13,34743</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n127">
+      <data key="v_geocode">3101706</data>
+      <data key="v_NOMEMUN">Almenara</data>
+      <data key="v_x">-40,72378</data>
+      <data key="v_y">-16,09108</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n128">
+      <data key="v_geocode">3103405</data>
+      <data key="v_NOMEMUN">Araçuaí</data>
+      <data key="v_x">-41,99317</data>
+      <data key="v_y">-16,93078</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n129">
+      <data key="v_geocode">3121605</data>
+      <data key="v_NOMEMUN">Diamantina</data>
+      <data key="v_x">-43,6108</data>
+      <data key="v_y">-17,99379</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n130">
+      <data key="v_geocode">3104007</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Araxá/MG</data>
+      <data key="v_x">-46,97215</data>
+      <data key="v_y">-19,6364</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n131">
+      <data key="v_geocode">3148103</data>
+      <data key="v_NOMEMUN">Patrocínio</data>
+      <data key="v_x">-47,05125</data>
+      <data key="v_y">-18,97052</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n132">
+      <data key="v_geocode">3148004</data>
+      <data key="v_NOMEMUN">Patos de Minas</data>
+      <data key="v_x">-46,50772</data>
+      <data key="v_y">-18,59701</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n133">
+      <data key="v_geocode">3168606</data>
+      <data key="v_NOMEMUN">Teófilo Otoni</data>
+      <data key="v_x">-41,38366</data>
+      <data key="v_y">-17,7146</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n134">
+      <data key="v_geocode">3170057</data>
+      <data key="v_NOMEMUN">Ubaporanga</data>
+      <data key="v_x">-42,06994</data>
+      <data key="v_y">-19,66052</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n135">
+      <data key="v_geocode">3139409</data>
+      <data key="v_NOMEMUN">Manhuaçu</data>
+      <data key="v_x">-42,10683</data>
+      <data key="v_y">-20,19533</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n136">
+      <data key="v_geocode">3171303</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Viçosa/MG</data>
+      <data key="v_x">-42,88551</data>
+      <data key="v_y">-20,74042</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n137">
+      <data key="v_geocode">3152501</data>
+      <data key="v_NOMEMUN">Pouso Alegre</data>
+      <data key="v_x">-45,93997</data>
+      <data key="v_y">-22,2649</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n138">
+      <data key="v_geocode">3300704</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Cabo Frio/RJ</data>
+      <data key="v_x">-42,05722</data>
+      <data key="v_y">-22,71036</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n139">
+      <data key="v_geocode">3151800</data>
+      <data key="v_NOMEMUN">Poços de Caldas</data>
+      <data key="v_x">-46,5633</data>
+      <data key="v_y">-21,80802</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n140">
+      <data key="v_geocode">3151503</data>
+      <data key="v_NOMEMUN">Piumhi</data>
+      <data key="v_x">-46,0504</data>
+      <data key="v_y">-20,44144</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n141">
+      <data key="v_geocode">5204508</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Caldas Novas/GO</data>
+      <data key="v_x">-48,64624</data>
+      <data key="v_y">-17,70924</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n142">
+      <data key="v_geocode">3128709</data>
+      <data key="v_NOMEMUN">Guaxupé</data>
+      <data key="v_x">-46,68293</data>
+      <data key="v_y">-21,2906</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n143">
+      <data key="v_geocode">3147907</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Passos/MG</data>
+      <data key="v_x">-46,62199</data>
+      <data key="v_y">-20,71858</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n144">
+      <data key="v_geocode">3202405</data>
+      <data key="v_NOMEMUN">Guarapari</data>
+      <data key="v_x">-40,54579</data>
+      <data key="v_y">-20,58522</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n145">
+      <data key="v_geocode">5218805</data>
+      <data key="v_NOMEMUN">Rio Verde</data>
+      <data key="v_x">-51,03853</data>
+      <data key="v_y">-17,7394</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n146">
+      <data key="v_geocode">3136702</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Juiz de Fora/MG</data>
+      <data key="v_x">-43,46473</data>
+      <data key="v_y">-21,7455</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n147">
+      <data key="v_geocode">3162500</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de São João del Rei/MG</data>
+      <data key="v_x">-44,27443</data>
+      <data key="v_y">-21,26315</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n148">
+      <data key="v_geocode">5003702</data>
+      <data key="v_NOMEMUN">Dourados</data>
+      <data key="v_x">-54,838</data>
+      <data key="v_y">-22,14518</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n149">
+      <data key="v_geocode">4104808</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Cascavel/PR</data>
+      <data key="v_x">-53,37969</data>
+      <data key="v_y">-25,02935</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n150">
+      <data key="v_geocode">3300100</data>
+      <data key="v_NOMEMUN">Angra dos Reis</data>
+      <data key="v_x">-44,35299</data>
+      <data key="v_y">-22,98678</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n151">
+      <data key="v_geocode">3301009</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Campos dos Goytacazes/RJ</data>
+      <data key="v_x">-41,4039</data>
+      <data key="v_y">-21,74732</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n152">
+      <data key="v_geocode">4204202</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Chapecó/SC</data>
+      <data key="v_x">-52,65032</data>
+      <data key="v_y">-27,12498</data>
+      <data key="v_size">10,5633802816901</data>
+    </node>
+    <node id="n153">
+      <data key="v_geocode">4209102</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Joinville/SC</data>
+      <data key="v_x">-48,95138</data>
+      <data key="v_y">-26,24419</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n154">
+      <data key="v_geocode">3122306</data>
+      <data key="v_NOMEMUN">Divinópolis</data>
+      <data key="v_x">-44,93069</data>
+      <data key="v_y">-20,12372</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n155">
+      <data key="v_geocode">5008305</data>
+      <data key="v_NOMEMUN">Três Lagoas</data>
+      <data key="v_x">-52,2116</data>
+      <data key="v_y">-20,43854</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n156">
+      <data key="v_geocode">5107602</data>
+      <data key="v_NOMEMUN">Rondonópolis</data>
+      <data key="v_x">-54,66847</data>
+      <data key="v_y">-16,52031</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n157">
+      <data key="v_geocode">3302403</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Macaé - Rio das Ostras/RJ</data>
+      <data key="v_x">-41,97734</data>
+      <data key="v_y">-22,29578</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n158">
+      <data key="v_geocode">3303807</data>
+      <data key="v_NOMEMUN">Paraty</data>
+      <data key="v_x">-44,70618</data>
+      <data key="v_y">-23,14844</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n159">
+      <data key="v_geocode">4305108</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Caxias do Sul/RS</data>
+      <data key="v_x">-51,02405</data>
+      <data key="v_y">-29,10241</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n160">
+      <data key="v_geocode">3529005</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Marília/SP</data>
+      <data key="v_x">-49,98309</data>
+      <data key="v_y">-22,17779</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n161">
+      <data key="v_geocode">3503208</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Araraquara/SP</data>
+      <data key="v_x">-48,18132</data>
+      <data key="v_y">-21,79165</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n162">
+      <data key="v_geocode">3505500</data>
+      <data key="v_NOMEMUN">Barretos</data>
+      <data key="v_x">-48,65195</data>
+      <data key="v_y">-20,51416</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n163">
+      <data key="v_geocode">4119905</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Ponta Grossa/PR</data>
+      <data key="v_x">-50,08079</data>
+      <data key="v_y">-25,1397</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n164">
+      <data key="v_geocode">5002209</data>
+      <data key="v_NOMEMUN">Bonito</data>
+      <data key="v_x">-56,46025</data>
+      <data key="v_y">-21,00782</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n165">
+      <data key="v_geocode">4314100</data>
+      <data key="v_NOMEMUN">Passo Fundo</data>
+      <data key="v_x">-52,45247</data>
+      <data key="v_y">-28,26897</data>
+      <data key="v_size">10,4507042253521</data>
+    </node>
+    <node id="n166">
+      <data key="v_geocode">4208807</data>
+      <data key="v_NOMEMUN">Jaguaruna</data>
+      <data key="v_x">-49,04451</data>
+      <data key="v_y">-28,65798</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n167">
+      <data key="v_geocode">5003207</data>
+      <data key="v_NOMEMUN">Arranjo Populacional Internacional de Corumbá/Brasil</data>
+      <data key="v_x">-56,72372</data>
+      <data key="v_y">-18,73121</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n168">
+      <data key="v_geocode">4209300</data>
+      <data key="v_NOMEMUN">Lages</data>
+      <data key="v_x">-50,34086</data>
+      <data key="v_y">-28,02012</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n169">
+      <data key="v_geocode">4109401</data>
+      <data key="v_NOMEMUN">Guarapuava</data>
+      <data key="v_x">-51,49002</data>
+      <data key="v_y">-25,37176</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n170">
+      <data key="v_geocode">4204608</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Criciúma/SC</data>
+      <data key="v_x">-49,37958</data>
+      <data key="v_y">-28,71547</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n171">
+      <data key="v_geocode">3548906</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de São Carlos/SP</data>
+      <data key="v_x">-47,86718</data>
+      <data key="v_y">-21,91889</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n172">
+      <data key="v_geocode">3510500</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Caraguatatuba - Ubatuba - São Sebastião/SP</data>
+      <data key="v_x">-45,48808</data>
+      <data key="v_y">-23,63967</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n173">
+      <data key="v_geocode">3516200</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Franca/SP</data>
+      <data key="v_x">-47,38111</data>
+      <data key="v_y">-20,55522</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n174">
+      <data key="v_geocode">5101803</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Barra do Garças/MT</data>
+      <data key="v_x">-52,4976</data>
+      <data key="v_y">-15,36166</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n175">
+      <data key="v_geocode">3548500</data>
+      <data key="v_NOMEMUN">Arranjo Populacional da Baixada Santista/SP</data>
+      <data key="v_x">-46,29151</data>
+      <data key="v_y">-23,86878</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n176">
+      <data key="v_geocode">4101507</data>
+      <data key="v_NOMEMUN">Arapongas</data>
+      <data key="v_x">-51,42824</data>
+      <data key="v_y">-23,4408</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n177">
+      <data key="v_geocode">4104303</data>
+      <data key="v_NOMEMUN">Campo Mourão</data>
+      <data key="v_x">-52,37976</data>
+      <data key="v_y">-24,10324</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n178">
+      <data key="v_geocode">4105508</data>
+      <data key="v_NOMEMUN">Cianorte</data>
+      <data key="v_x">-52,62699</data>
+      <data key="v_y">-23,72746</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n179">
+      <data key="v_geocode">4106407</data>
+      <data key="v_NOMEMUN">Cornélio Procópio</data>
+      <data key="v_x">-50,62353</data>
+      <data key="v_y">-23,22579</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n180">
+      <data key="v_geocode">4127106</data>
+      <data key="v_NOMEMUN">Telêmaco Borba</data>
+      <data key="v_x">-50,52255</data>
+      <data key="v_y">-24,25001</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n181">
+      <data key="v_geocode">4118501</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Pato Branco/PR</data>
+      <data key="v_x">-52,66321</data>
+      <data key="v_y">-26,16902</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n182">
+      <data key="v_geocode">4127700</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Toledo/PR</data>
+      <data key="v_x">-53,77755</data>
+      <data key="v_y">-24,70487</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n183">
+      <data key="v_geocode">4108809</data>
+      <data key="v_NOMEMUN">Guaíra</data>
+      <data key="v_x">-54,23066</data>
+      <data key="v_y">-24,19059</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n184">
+      <data key="v_geocode">4118204</data>
+      <data key="v_NOMEMUN">Paranaguá</data>
+      <data key="v_x">-48,51761</data>
+      <data key="v_y">-25,52657</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n185">
+      <data key="v_geocode">4128203</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de União da Vitória/PR - Porto União/SC</data>
+      <data key="v_x">-51,07493</data>
+      <data key="v_y">-26,10939</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n186">
+      <data key="v_geocode">4118402</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Paranavaí/PR</data>
+      <data key="v_x">-52,51062</data>
+      <data key="v_y">-22,92126</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n187">
+      <data key="v_geocode">4108403</data>
+      <data key="v_NOMEMUN">Francisco Beltrão</data>
+      <data key="v_x">-53,13258</data>
+      <data key="v_y">-26,04769</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n188">
+      <data key="v_geocode">4307005</data>
+      <data key="v_NOMEMUN">Erechim</data>
+      <data key="v_x">-52,25781</data>
+      <data key="v_y">-27,64334</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n189">
+      <data key="v_geocode">4203006</data>
+      <data key="v_NOMEMUN">Caçador</data>
+      <data key="v_x">-51,08546</data>
+      <data key="v_y">-26,76255</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n190">
+      <data key="v_geocode">4209003</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Joaçaba - Herval d´Oeste/SC</data>
+      <data key="v_x">-51,59316</data>
+      <data key="v_y">-27,15202</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n191">
+      <data key="v_geocode">4314407</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Pelotas/RS</data>
+      <data key="v_x">-52,34116</data>
+      <data key="v_y">-31,58117</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n192">
+      <data key="v_geocode">4301602</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Bagé/RS</data>
+      <data key="v_x">-54,01676</data>
+      <data key="v_y">-31,23672</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n193">
+      <data key="v_geocode">4304408</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Canela - Gramado/RS</data>
+      <data key="v_x">-50,77487</data>
+      <data key="v_y">-29,35186</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n194">
+      <data key="v_geocode">4315602</data>
+      <data key="v_NOMEMUN">Rio Grande</data>
+      <data key="v_x">-52,40458</data>
+      <data key="v_y">-32,22007</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n195">
+      <data key="v_geocode">4317202</data>
+      <data key="v_NOMEMUN">Santa Rosa</data>
+      <data key="v_x">-54,49706</data>
+      <data key="v_y">-27,86449</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n196">
+      <data key="v_geocode">4317509</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Santo Ângelo/RS</data>
+      <data key="v_x">-54,29752</data>
+      <data key="v_y">-28,25071</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n197">
+      <data key="v_geocode">4316907</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Santa Maria/RS</data>
+      <data key="v_x">-53,82503</data>
+      <data key="v_y">-29,78497</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n198">
+      <data key="v_geocode">4322400</data>
+      <data key="v_NOMEMUN">Uruguaiana</data>
+      <data key="v_x">-56,72953</data>
+      <data key="v_y">-29,84064</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n199">
+      <data key="v_geocode">4318002</data>
+      <data key="v_NOMEMUN">São Borja</data>
+      <data key="v_x">-55,79658</data>
+      <data key="v_y">-28,74669</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n200">
+      <data key="v_geocode">4321501</data>
+      <data key="v_NOMEMUN">Arranjo Populacional de Torres/RS</data>
+      <data key="v_x">-49,80963</data>
+      <data key="v_y">-29,3283</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n201">
+      <data key="v_geocode">5100201</data>
+      <data key="v_NOMEMUN">Água Boa</data>
+      <data key="v_x">-52,50063</data>
+      <data key="v_y">-13,97827</data>
+      <data key="v_size">10,5633802816901</data>
+    </node>
+    <node id="n202">
+      <data key="v_geocode">5102702</data>
+      <data key="v_NOMEMUN">Canarana</data>
+      <data key="v_x">-52,39709</data>
+      <data key="v_y">-13,3309</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n203">
+      <data key="v_geocode">5107040</data>
+      <data key="v_NOMEMUN">Primavera do Leste</data>
+      <data key="v_x">-54,22052</data>
+      <data key="v_y">-15,0974</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n204">
+      <data key="v_geocode">5100805</data>
+      <data key="v_NOMEMUN">Apiacás</data>
+      <data key="v_x">-57,82716</data>
+      <data key="v_y">-8,75369</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n205">
+      <data key="v_geocode">5105101</data>
+      <data key="v_NOMEMUN">Juara</data>
+      <data key="v_x">-57,61848</data>
+      <data key="v_y">-11,02392</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <node id="n206">
+      <data key="v_geocode">5105150</data>
+      <data key="v_NOMEMUN">Juína</data>
+      <data key="v_x">-59,32982</data>
+      <data key="v_y">-11,53375</data>
+      <data key="v_size">10,6760563380282</data>
+    </node>
+    <node id="n207">
+      <data key="v_geocode">5101407</data>
+      <data key="v_NOMEMUN">Aripuanã</data>
+      <data key="v_x">-59,83805</data>
+      <data key="v_y">-10,18684</data>
+      <data key="v_size">10,112676056338</data>
+    </node>
+    <node id="n208">
+      <data key="v_geocode">5107958</data>
+      <data key="v_NOMEMUN">Tangará da Serra</data>
+      <data key="v_x">-58,3177</data>
+      <data key="v_y">-14,42351</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n209">
+      <data key="v_geocode">5107925</data>
+      <data key="v_NOMEMUN">Sorriso</data>
+      <data key="v_x">-55,67734</data>
+      <data key="v_y">-12,74184</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n210">
+      <data key="v_geocode">5105259</data>
+      <data key="v_NOMEMUN">Lucas do Rio Verde</data>
+      <data key="v_x">-56,16529</data>
+      <data key="v_y">-13,03762</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n211">
+      <data key="v_geocode">5106224</data>
+      <data key="v_NOMEMUN">Nova Mutum</data>
+      <data key="v_x">-56,10469</data>
+      <data key="v_y">-13,62983</data>
+      <data key="v_size">10,3380281690141</data>
+    </node>
+    <node id="n212">
+      <data key="v_geocode">5106752</data>
+      <data key="v_NOMEMUN">Pontes e Lacerda</data>
+      <data key="v_x">-59,45858</data>
+      <data key="v_y">-15,51719</data>
+      <data key="v_size">10,2253521126761</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_id">11000495103403</data>
+      <data key="e_weight">264</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_id">11000491100122</data>
+      <data key="e_weight">2,19230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_id">11001225103403</data>
+      <data key="e_weight">276,903846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n13">
+      <data key="e_id">11002055300108</data>
+      <data key="e_weight">2212,82692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n13">
+      <data key="e_id">11002051302603</data>
+      <data key="e_weight">1923,57692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n13">
+      <data key="e_id">11002055103403</data>
+      <data key="e_weight">1225,92307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n13">
+      <data key="e_id">11002053106200</data>
+      <data key="e_weight">332,826923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n13" target="n17">
+      <data key="e_id">11002053550308</data>
+      <data key="e_weight">881,730769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n13" target="n19">
+      <data key="e_id">11002051200401</data>
+      <data key="e_weight">5,59615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n13">
+      <data key="e_id">11002053509502</data>
+      <data key="e_weight">1192,01923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n13" target="n20">
+      <data key="e_id">11002051506807</data>
+      <data key="e_weight">1,51923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n13" target="n21">
+      <data key="e_id">11002051501402</data>
+      <data key="e_weight">27,3461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n13" target="n22">
+      <data key="e_id">11002051400100</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n7" target="n13">
+      <data key="e_id">11002051302405</data>
+      <data key="e_weight">2,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n13" target="n24">
+      <data key="e_id">11002051304203</data>
+      <data key="e_weight">0,0576923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n14">
+      <data key="e_id">11003045103403</data>
+      <data key="e_weight">169,115384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_id">12002035300108</data>
+      <data key="e_weight">205,557692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n5" target="n19">
+      <data key="e_id">12002031200401</data>
+      <data key="e_weight">170,230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n19">
+      <data key="e_id">12004015300108</data>
+      <data key="e_weight">2313,30769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n19">
+      <data key="e_id">12004013550308</data>
+      <data key="e_weight">915,038461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n19">
+      <data key="e_id">12004011302603</data>
+      <data key="e_weight">167,923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n36">
+      <data key="e_id">13010011302603</data>
+      <data key="e_weight">67,6923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n36" target="n37">
+      <data key="e_id">13010011301209</data>
+      <data key="e_weight">0,673076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n24" target="n36">
+      <data key="e_id">13010011304203</data>
+      <data key="e_weight">1,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n37">
+      <data key="e_id">13012091302603</data>
+      <data key="e_weight">63,0961538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n7" target="n37">
+      <data key="e_id">13012091302405</data>
+      <data key="e_weight">6,42307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n24" target="n37">
+      <data key="e_id">13012091304203</data>
+      <data key="e_weight">1,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n38">
+      <data key="e_id">13014071302603</data>
+      <data key="e_weight">61,8846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n24" target="n38">
+      <data key="e_id">13014071304203</data>
+      <data key="e_weight">4,55769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n7" target="n8">
+      <data key="e_id">13024051302603</data>
+      <data key="e_weight">29,2884615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n7" target="n24">
+      <data key="e_id">13024051304203</data>
+      <data key="e_weight">0,692307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n17">
+      <data key="e_id">13026033550308</data>
+      <data key="e_weight">8638,07692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n8">
+      <data key="e_id">13026033509502</data>
+      <data key="e_weight">3872,96153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n9">
+      <data key="e_id">13026035300108</data>
+      <data key="e_weight">5051,44230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n25">
+      <data key="e_id">13026032304400</data>
+      <data key="e_weight">2486,88461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n21">
+      <data key="e_id">13026031501402</data>
+      <data key="e_weight">2595,69230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n18">
+      <data key="e_id">13026033304557</data>
+      <data key="e_weight">1268,09615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n23">
+      <data key="e_id">13026032611606</data>
+      <data key="e_weight">846,769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n22">
+      <data key="e_id">13026031400100</data>
+      <data key="e_weight">1093,03846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n20">
+      <data key="e_id">13026031506807</data>
+      <data key="e_weight">787,346153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n41">
+      <data key="e_id">13026031304062</data>
+      <data key="e_weight">726,365384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n24">
+      <data key="e_id">13026031304203</data>
+      <data key="e_weight">376,711538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n42">
+      <data key="e_id">13026031302900</data>
+      <data key="e_weight">10,3461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_id">13026035103403</data>
+      <data key="e_weight">43,9423076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n44">
+      <data key="e_id">13026031303403</data>
+      <data key="e_weight">180,038461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n45">
+      <data key="e_id">13026031600303</data>
+      <data key="e_weight">0,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n32">
+      <data key="e_id">13026031303809</data>
+      <data key="e_weight">63,2692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n26">
+      <data key="e_id">13026031500602</data>
+      <data key="e_weight">3,80769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n49">
+      <data key="e_id">13026031503606</data>
+      <data key="e_weight">92,5192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n15">
+      <data key="e_id">13026033543402</data>
+      <data key="e_weight">0,153846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n11">
+      <data key="e_id">13026033106200</data>
+      <data key="e_weight">9,90384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n53">
+      <data key="e_id">13026035100250</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n8" target="n54">
+      <data key="e_id">13026031504208</data>
+      <data key="e_weight">0,346153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n42" target="n44">
+      <data key="e_id">13029001303403</data>
+      <data key="e_weight">9,11538461538461</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n44">
+      <data key="e_id">13034031501402</data>
+      <data key="e_weight">0,115384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n44">
+      <data key="e_id">13034031506807</data>
+      <data key="e_weight">0,230769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n24" target="n41">
+      <data key="e_id">13040621304203</data>
+      <data key="e_weight">21,4807692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n22">
+      <data key="e_id">14001005300108</data>
+      <data key="e_weight">2275,67307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n22">
+      <data key="e_id">14001003509502</data>
+      <data key="e_weight">283,442307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n22">
+      <data key="e_id">14001001501402</data>
+      <data key="e_weight">31,3076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n22">
+      <data key="e_id">14001003550308</data>
+      <data key="e_weight">4,23076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n61" target="n62">
+      <data key="e_id">15004041504802</data>
+      <data key="e_weight">0,673076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n61" target="n63">
+      <data key="e_id">15004041505106</data>
+      <data key="e_weight">0,788461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n26">
+      <data key="e_id">15006021501402</data>
+      <data key="e_weight">951,423076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n26">
+      <data key="e_id">15006021506807</data>
+      <data key="e_weight">1,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n26" target="n49">
+      <data key="e_id">15006021503606</data>
+      <data key="e_weight">0,961538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n26" target="n45">
+      <data key="e_id">15006021600303</data>
+      <data key="e_weight">0,923076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n21">
+      <data key="e_id">15014023550308</data>
+      <data key="e_weight">6873,63461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n21">
+      <data key="e_id">15014025300108</data>
+      <data key="e_weight">4841,38461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n45">
+      <data key="e_id">15014021600303</data>
+      <data key="e_weight">4547,03846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n25">
+      <data key="e_id">15014022304400</data>
+      <data key="e_weight">3797,51923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n21">
+      <data key="e_id">15014021506807</data>
+      <data key="e_weight">3448,88461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n21">
+      <data key="e_id">15014023106200</data>
+      <data key="e_weight">2298,01923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n21">
+      <data key="e_id">15014023304557</data>
+      <data key="e_weight">572,519230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n23">
+      <data key="e_id">15014022611606</data>
+      <data key="e_weight">1959,03846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n21">
+      <data key="e_id">15014023509502</data>
+      <data key="e_weight">2767,71153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n54">
+      <data key="e_id">15014021504208</data>
+      <data key="e_weight">1480,78846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n47">
+      <data key="e_id">15014022111300</data>
+      <data key="e_weight">841,557692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n55">
+      <data key="e_id">15014021505536</data>
+      <data key="e_weight">327,846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n65">
+      <data key="e_id">15014021501808</data>
+      <data key="e_weight">24,1923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n68">
+      <data key="e_id">15014021600279</data>
+      <data key="e_weight">23,3653846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n66">
+      <data key="e_id">15014021505908</data>
+      <data key="e_weight">10,6538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n69">
+      <data key="e_id">15014022211001</data>
+      <data key="e_weight">33,5192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n49">
+      <data key="e_id">15014021503606</data>
+      <data key="e_weight">7,82692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n21">
+      <data key="e_id">15014025208707</data>
+      <data key="e_weight">3,13461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n21">
+      <data key="e_id">15014023543402</data>
+      <data key="e_weight">1,32692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n51">
+      <data key="e_id">15014022927408</data>
+      <data key="e_weight">2,13461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n64">
+      <data key="e_id">15014022105302</data>
+      <data key="e_weight">303,576923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n56">
+      <data key="e_id">15014021508100</data>
+      <data key="e_weight">0,230769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n29">
+      <data key="e_id">15014024314902</data>
+      <data key="e_weight">10,0769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n21" target="n67">
+      <data key="e_id">15014021721000</data>
+      <data key="e_weight">0,384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n65" target="n66">
+      <data key="e_id">15018081505908</data>
+      <data key="e_weight">10,6730769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n49">
+      <data key="e_id">15036061506807</data>
+      <data key="e_weight">4,88461538461539</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n54">
+      <data key="e_id">15042085300108</data>
+      <data key="e_weight">1734,19230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n54">
+      <data key="e_id">15042083106200</data>
+      <data key="e_weight">6,03846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n54">
+      <data key="e_id">15042085208707</data>
+      <data key="e_weight">3,23076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n47" target="n54">
+      <data key="e_id">15042082111300</data>
+      <data key="e_weight">0,846153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n54">
+      <data key="e_id">15042081506807</data>
+      <data key="e_weight">1,55769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n54">
+      <data key="e_id">15042082611606</data>
+      <data key="e_weight">0,326923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n54">
+      <data key="e_id">15042083509502</data>
+      <data key="e_weight">0,403846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n62" target="n63">
+      <data key="e_id">15048021505106</data>
+      <data key="e_weight">2,80769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n62">
+      <data key="e_id">15048021506807</data>
+      <data key="e_weight">3,94230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n48" target="n63">
+      <data key="e_id">15051061505304</data>
+      <data key="e_weight">3,42307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n55">
+      <data key="e_id">15055363106200</data>
+      <data key="e_weight">611,326923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n55">
+      <data key="e_id">15055363304557</data>
+      <data key="e_weight">25,7692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n55">
+      <data key="e_id">15055365300108</data>
+      <data key="e_weight">119,423076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n47" target="n55">
+      <data key="e_id">15055362111300</data>
+      <data key="e_weight">54,6730769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n66" target="n68">
+      <data key="e_id">15059081600279</data>
+      <data key="e_weight">0,673076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n66">
+      <data key="e_id">15059081506807</data>
+      <data key="e_weight">2,55769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n20">
+      <data key="e_id">15068075300108</data>
+      <data key="e_weight">1202,05769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n25">
+      <data key="e_id">15068072304400</data>
+      <data key="e_weight">56,0769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n20">
+      <data key="e_id">15068073509502</data>
+      <data key="e_weight">31,4038461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n23">
+      <data key="e_id">15068072611606</data>
+      <data key="e_weight">63,5192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n45">
+      <data key="e_id">15068071600303</data>
+      <data key="e_weight">2,51923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n51">
+      <data key="e_id">15068072927408</data>
+      <data key="e_weight">0,807692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n20" target="n47">
+      <data key="e_id">15068072111300</data>
+      <data key="e_weight">0,384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n45">
+      <data key="e_id">16003035300108</data>
+      <data key="e_weight">1718,61538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n45">
+      <data key="e_id">16003033550308</data>
+      <data key="e_weight">60</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n45">
+      <data key="e_id">16003033509502</data>
+      <data key="e_weight">186,923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n45">
+      <data key="e_id">16003032611606</data>
+      <data key="e_weight">61,5192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n45">
+      <data key="e_id">16003033106200</data>
+      <data key="e_weight">55</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n60">
+      <data key="e_id">17021095300108</data>
+      <data key="e_weight">343,076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n67">
+      <data key="e_id">17210003550308</data>
+      <data key="e_weight">1561,76923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n67">
+      <data key="e_id">17210005300108</data>
+      <data key="e_weight">1583,26923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n67">
+      <data key="e_id">17210005208707</data>
+      <data key="e_weight">586,192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n67">
+      <data key="e_id">17210002611606</data>
+      <data key="e_weight">46,0576923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n67">
+      <data key="e_id">17210003304557</data>
+      <data key="e_weight">33,6730769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n67">
+      <data key="e_id">17210003509502</data>
+      <data key="e_weight">765,615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n67">
+      <data key="e_id">17210003543402</data>
+      <data key="e_weight">32,7884615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n67">
+      <data key="e_id">17210003106200</data>
+      <data key="e_weight">13,3653846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n67">
+      <data key="e_id">17210002927408</data>
+      <data key="e_weight">32,2692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n67">
+      <data key="e_id">17210005103403</data>
+      <data key="e_weight">0,192307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n64">
+      <data key="e_id">21053025300108</data>
+      <data key="e_weight">866,615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n64">
+      <data key="e_id">21053023550308</data>
+      <data key="e_weight">1249,48076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n47" target="n64">
+      <data key="e_id">21053022111300</data>
+      <data key="e_weight">460,038461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n64">
+      <data key="e_id">21053022611606</data>
+      <data key="e_weight">97,3846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n64" target="n69">
+      <data key="e_id">21053022211001</data>
+      <data key="e_weight">1,92307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n47">
+      <data key="e_id">21113003550308</data>
+      <data key="e_weight">4647,63461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n47">
+      <data key="e_id">21113005300108</data>
+      <data key="e_weight">3499,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n47">
+      <data key="e_id">21113002611606</data>
+      <data key="e_weight">1195,67307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n47">
+      <data key="e_id">21113002304400</data>
+      <data key="e_weight">1239,86538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n47">
+      <data key="e_id">21113003106200</data>
+      <data key="e_weight">1801,44230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n47">
+      <data key="e_id">21113003304557</data>
+      <data key="e_weight">796,884615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n47" target="n69">
+      <data key="e_id">21113002211001</data>
+      <data key="e_weight">226,846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n47">
+      <data key="e_id">21113003509502</data>
+      <data key="e_weight">167,134615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n47" target="n51">
+      <data key="e_id">21113002927408</data>
+      <data key="e_weight">34,9615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n69" target="n90">
+      <data key="e_id">22077022211001</data>
+      <data key="e_weight">2,23076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n90">
+      <data key="e_id">22077023509502</data>
+      <data key="e_weight">44,8076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n69">
+      <data key="e_id">22110015300108</data>
+      <data key="e_weight">3037,15384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n69">
+      <data key="e_id">22110013550308</data>
+      <data key="e_weight">3360,46153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n69">
+      <data key="e_id">22110012304400</data>
+      <data key="e_weight">771,807692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n69">
+      <data key="e_id">22110013509502</data>
+      <data key="e_weight">1792,96153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n69">
+      <data key="e_id">22110012611606</data>
+      <data key="e_weight">1491,55769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n69">
+      <data key="e_id">22110013106200</data>
+      <data key="e_weight">1,78846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n69">
+      <data key="e_id">22110012927408</data>
+      <data key="e_weight">36,4423076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n94">
+      <data key="e_id">23011092611606</data>
+      <data key="e_weight">13,0769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n94" target="n95">
+      <data key="e_id">23011092408003</data>
+      <data key="e_weight">0,326923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n94">
+      <data key="e_id">23011092304400</data>
+      <data key="e_weight">0,0769230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n94">
+      <data key="e_id">23011093509502</data>
+      <data key="e_weight">14,0384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n96">
+      <data key="e_id">23041032304400</data>
+      <data key="e_weight">0,980769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n97">
+      <data key="e_id">23042513106200</data>
+      <data key="e_weight">193,5</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n97">
+      <data key="e_id">23042513550308</data>
+      <data key="e_weight">381,019230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n97">
+      <data key="e_id">23042513509502</data>
+      <data key="e_weight">43</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n97">
+      <data key="e_id">23042512304400</data>
+      <data key="e_weight">29</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n25">
+      <data key="e_id">23044003550308</data>
+      <data key="e_weight">18692,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n25">
+      <data key="e_id">23044005300108</data>
+      <data key="e_weight">6293,65384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n25">
+      <data key="e_id">23044002611606</data>
+      <data key="e_weight">7816,59615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n25">
+      <data key="e_id">23044003304557</data>
+      <data key="e_weight">5355,17307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n51">
+      <data key="e_id">23044002927408</data>
+      <data key="e_weight">3798,21153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n25">
+      <data key="e_id">23044003106200</data>
+      <data key="e_weight">1029,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n25">
+      <data key="e_id">23044003509502</data>
+      <data key="e_weight">2185,76923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n46">
+      <data key="e_id">23044002408102</data>
+      <data key="e_weight">1081,19230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n98">
+      <data key="e_id">23044002307304</data>
+      <data key="e_weight">533,634615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n91">
+      <data key="e_id">23044002925303</data>
+      <data key="e_weight">0,153846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n89">
+      <data key="e_id">23044002704302</data>
+      <data key="e_weight">2,03846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n25">
+      <data key="e_id">23044003543402</data>
+      <data key="e_weight">3,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n101">
+      <data key="e_id">23044002305506</data>
+      <data key="e_weight">1,23076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n102">
+      <data key="e_id">23044002312304</data>
+      <data key="e_weight">1,19230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n103">
+      <data key="e_id">23044002312908</data>
+      <data key="e_weight">0,961538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n25" target="n104">
+      <data key="e_id">23044002313302</data>
+      <data key="e_weight">0,942307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n98">
+      <data key="e_id">23073043550308</data>
+      <data key="e_weight">2924,71153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n98">
+      <data key="e_id">23073043509502</data>
+      <data key="e_weight">438,365384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n98">
+      <data key="e_id">23073042611606</data>
+      <data key="e_weight">1113,57692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n98" target="n100">
+      <data key="e_id">23073042611101</data>
+      <data key="e_weight">0,365384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n46" target="n98">
+      <data key="e_id">23073042408102</data>
+      <data key="e_weight">0,615384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n95">
+      <data key="e_id">24080032611606</data>
+      <data key="e_weight">136,269230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n46">
+      <data key="e_id">24081023550308</data>
+      <data key="e_weight">9230,17307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n46">
+      <data key="e_id">24081025300108</data>
+      <data key="e_weight">2980,42307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n46">
+      <data key="e_id">24081023304557</data>
+      <data key="e_weight">3259,5</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n46">
+      <data key="e_id">24081022611606</data>
+      <data key="e_weight">1910,05769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n46">
+      <data key="e_id">24081023509502</data>
+      <data key="e_weight">501,846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n46">
+      <data key="e_id">24081023106200</data>
+      <data key="e_weight">175,057692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n46" target="n51">
+      <data key="e_id">24081022927408</data>
+      <data key="e_weight">903,596153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n46" target="n105">
+      <data key="e_id">24081022605459</data>
+      <data key="e_weight">46,9615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n46">
+      <data key="e_id">24081025208707</data>
+      <data key="e_weight">25,7115384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n46">
+      <data key="e_id">24081023543402</data>
+      <data key="e_weight">36,9615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n46" target="n52">
+      <data key="e_id">24081023170206</data>
+      <data key="e_weight">26,1153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n46" target="n92">
+      <data key="e_id">24081022507507</data>
+      <data key="e_weight">0,576923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n46" target="n99">
+      <data key="e_id">24081022504009</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n99">
+      <data key="e_id">25040093550308</data>
+      <data key="e_weight">770,326923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n99">
+      <data key="e_id">25040092611606</data>
+      <data key="e_weight">692,153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n89" target="n99">
+      <data key="e_id">25040092704302</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n92">
+      <data key="e_id">25075073550308</data>
+      <data key="e_weight">6414,11538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n92">
+      <data key="e_id">25075075300108</data>
+      <data key="e_weight">2913,80769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n92">
+      <data key="e_id">25075073304557</data>
+      <data key="e_weight">2211,92307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n92">
+      <data key="e_id">25075072611606</data>
+      <data key="e_weight">1238,17307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n92">
+      <data key="e_id">25075072927408</data>
+      <data key="e_weight">617,980769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n92">
+      <data key="e_id">25075073106200</data>
+      <data key="e_weight">32,4807692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n92">
+      <data key="e_id">25075073509502</data>
+      <data key="e_weight">323,115384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n89" target="n106">
+      <data key="e_id">25108082704302</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n106">
+      <data key="e_id">25108082611606</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n107">
+      <data key="e_id">26041062611606</data>
+      <data key="e_weight">12,9807692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n105">
+      <data key="e_id">26054592611606</data>
+      <data key="e_weight">1988,13461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n100">
+      <data key="e_id">26111013550308</data>
+      <data key="e_weight">1577,15384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n100">
+      <data key="e_id">26111012611606</data>
+      <data key="e_weight">1154,84615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n100">
+      <data key="e_id">26111013509502</data>
+      <data key="e_weight">359,980769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n100">
+      <data key="e_id">26111012927408</data>
+      <data key="e_weight">398,115384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n100">
+      <data key="e_id">26111015103403</data>
+      <data key="e_weight">1,09615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n23">
+      <data key="e_id">26116063550308</data>
+      <data key="e_weight">27159,3846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n23">
+      <data key="e_id">26116063509502</data>
+      <data key="e_weight">8830,32692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n23">
+      <data key="e_id">26116063304557</data>
+      <data key="e_weight">7556,19230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n23">
+      <data key="e_id">26116065300108</data>
+      <data key="e_weight">7571,38461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n23">
+      <data key="e_id">26116063106200</data>
+      <data key="e_weight">3368,40384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n51">
+      <data key="e_id">26116062927408</data>
+      <data key="e_weight">4774,05769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n58">
+      <data key="e_id">26116062800308</data>
+      <data key="e_weight">1438,76923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n89">
+      <data key="e_id">26116062704302</data>
+      <data key="e_weight">1693,98076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n43">
+      <data key="e_id">26116063205309</data>
+      <data key="e_weight">387,403846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n23">
+      <data key="e_id">26116065208707</data>
+      <data key="e_weight">137,057692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n23">
+      <data key="e_id">26116065103403</data>
+      <data key="e_weight">123,173076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n29">
+      <data key="e_id">26116064314902</data>
+      <data key="e_weight">146,846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n109">
+      <data key="e_id">26116062924009</data>
+      <data key="e_weight">50,5769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n52">
+      <data key="e_id">26116063170206</data>
+      <data key="e_weight">31,1153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n23">
+      <data key="e_id">26116063543402</data>
+      <data key="e_weight">56,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n111">
+      <data key="e_id">26116062910800</data>
+      <data key="e_weight">35,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n91">
+      <data key="e_id">26116062925303</data>
+      <data key="e_weight">4,03846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n112">
+      <data key="e_id">26116062919306</data>
+      <data key="e_weight">2,67307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n16" target="n23">
+      <data key="e_id">26116063549805</data>
+      <data key="e_weight">15,0576923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n23" target="n116">
+      <data key="e_id">26116062613909</data>
+      <data key="e_weight">16,7115384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n89">
+      <data key="e_id">27043023550308</data>
+      <data key="e_weight">10302,5961538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n89">
+      <data key="e_id">27043023509502</data>
+      <data key="e_weight">790,480769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n89">
+      <data key="e_id">27043025300108</data>
+      <data key="e_weight">3737,36538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n89">
+      <data key="e_id">27043023304557</data>
+      <data key="e_weight">1269,17307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n89">
+      <data key="e_id">27043023106200</data>
+      <data key="e_weight">326,192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n89">
+      <data key="e_id">27043022927408</data>
+      <data key="e_weight">489,057692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n89">
+      <data key="e_id">27043024314902</data>
+      <data key="e_weight">3,05769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n89">
+      <data key="e_id">27043025208707</data>
+      <data key="e_weight">21,2307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n52" target="n89">
+      <data key="e_id">27043023170206</data>
+      <data key="e_weight">31,7307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n89">
+      <data key="e_id">27043025103403</data>
+      <data key="e_weight">13,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n89">
+      <data key="e_id">27043023543402</data>
+      <data key="e_weight">86,8076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n58" target="n89">
+      <data key="e_id">27043022800308</data>
+      <data key="e_weight">2,94230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n89" target="n110">
+      <data key="e_id">27043023541406</data>
+      <data key="e_weight">14,5769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n16" target="n89">
+      <data key="e_id">27043023549805</data>
+      <data key="e_weight">16,3269230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n58">
+      <data key="e_id">28003083550308</data>
+      <data key="e_weight">5755,19230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n58">
+      <data key="e_id">28003083304557</data>
+      <data key="e_weight">1455,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n58">
+      <data key="e_id">28003085300108</data>
+      <data key="e_weight">1460,98076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n58">
+      <data key="e_id">28003082927408</data>
+      <data key="e_weight">278,096153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n58">
+      <data key="e_id">28003083509502</data>
+      <data key="e_weight">416,192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n117">
+      <data key="e_id">29032013106200</data>
+      <data key="e_weight">276,557692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n117">
+      <data key="e_id">29032015300108</data>
+      <data key="e_weight">239,942307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n117">
+      <data key="e_id">29032012927408</data>
+      <data key="e_weight">189,346153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n111">
+      <data key="e_id">29108002927408</data>
+      <data key="e_weight">0,615384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n113">
+      <data key="e_id">29136063550308</data>
+      <data key="e_weight">3454,59615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n113">
+      <data key="e_id">29136062927408</data>
+      <data key="e_weight">758,5</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n113">
+      <data key="e_id">29136063106200</data>
+      <data key="e_weight">736,288461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n113">
+      <data key="e_id">29136063509502</data>
+      <data key="e_weight">108,153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n91" target="n113">
+      <data key="e_id">29136062925303</data>
+      <data key="e_weight">0,769230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n113">
+      <data key="e_id">29136063543402</data>
+      <data key="e_weight">1,71153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n112">
+      <data key="e_id">29193062927408</data>
+      <data key="e_weight">41,3269230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n91">
+      <data key="e_id">29253033550308</data>
+      <data key="e_weight">6477,15384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n91">
+      <data key="e_id">29253033106200</data>
+      <data key="e_weight">2429,69230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n91">
+      <data key="e_id">29253035300108</data>
+      <data key="e_weight">980,961538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n91">
+      <data key="e_id">29253032927408</data>
+      <data key="e_weight">1107,76923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n91">
+      <data key="e_id">29253033509502</data>
+      <data key="e_weight">366,807692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n52" target="n91">
+      <data key="e_id">29253033170206</data>
+      <data key="e_weight">139,192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n91">
+      <data key="e_id">29253033304557</data>
+      <data key="e_weight">53,8076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n91">
+      <data key="e_id">29253035208707</data>
+      <data key="e_weight">80,4615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n91" target="n110">
+      <data key="e_id">29253033541406</data>
+      <data key="e_weight">87,9230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n91">
+      <data key="e_id">29253033543402</data>
+      <data key="e_weight">82,2307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n91">
+      <data key="e_id">29253034106902</data>
+      <data key="e_weight">53,3461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n16" target="n91">
+      <data key="e_id">29253033549805</data>
+      <data key="e_weight">105,076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n85" target="n91">
+      <data key="e_id">29253033506003</data>
+      <data key="e_weight">18,3269230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n91">
+      <data key="e_id">29253034314902</data>
+      <data key="e_weight">6,32692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n51">
+      <data key="e_id">29274083550308</data>
+      <data key="e_weight">25637,3269230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n51">
+      <data key="e_id">29274083304557</data>
+      <data key="e_weight">8233,21153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n51">
+      <data key="e_id">29274083509502</data>
+      <data key="e_weight">5955,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n51">
+      <data key="e_id">29274085300108</data>
+      <data key="e_weight">4559,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n51">
+      <data key="e_id">29274083106200</data>
+      <data key="e_weight">4369,69230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n43" target="n51">
+      <data key="e_id">29274083205309</data>
+      <data key="e_weight">864,096153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n118">
+      <data key="e_id">29274082933307</data>
+      <data key="e_weight">1217,51923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n51">
+      <data key="e_id">29274085208707</data>
+      <data key="e_weight">392,519230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n51" target="n125">
+      <data key="e_id">29274082931350</data>
+      <data key="e_weight">33,1923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n51">
+      <data key="e_id">29274083543402</data>
+      <data key="e_weight">30,3269230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n30" target="n51">
+      <data key="e_id">29274084205407</data>
+      <data key="e_weight">14,2307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n125">
+      <data key="e_id">29313503106200</data>
+      <data key="e_weight">182,769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n121">
+      <data key="e_id">29325073550308</data>
+      <data key="e_weight">2,48076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n126">
+      <data key="e_id">29329033106200</data>
+      <data key="e_weight">43,0192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n118">
+      <data key="e_id">29333073106200</data>
+      <data key="e_weight">432,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n118">
+      <data key="e_id">29333073509502</data>
+      <data key="e_weight">453,153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n118">
+      <data key="e_id">29333073550308</data>
+      <data key="e_weight">1674</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n130">
+      <data key="e_id">31040073106200</data>
+      <data key="e_weight">11,4423076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n84" target="n130">
+      <data key="e_id">31040073170107</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n17">
+      <data key="e_id">31062003550308</data>
+      <data key="e_weight">27791,0961538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n11">
+      <data key="e_id">31062003509502</data>
+      <data key="e_weight">8857,69230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n11">
+      <data key="e_id">31062005300108</data>
+      <data key="e_weight">7560,98076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n18">
+      <data key="e_id">31062003304557</data>
+      <data key="e_weight">8376,01923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n43">
+      <data key="e_id">31062003205309</data>
+      <data key="e_weight">3083,65384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n11">
+      <data key="e_id">31062005208707</data>
+      <data key="e_weight">1663,03846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n29">
+      <data key="e_id">31062004314902</data>
+      <data key="e_weight">1409,82692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n27">
+      <data key="e_id">31062004106902</data>
+      <data key="e_weight">1018,94230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n52">
+      <data key="e_id">31062003170206</data>
+      <data key="e_weight">1614,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n11">
+      <data key="e_id">31062005103403</data>
+      <data key="e_weight">1092,28846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n108">
+      <data key="e_id">31062003143302</data>
+      <data key="e_weight">1340,19230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n123">
+      <data key="e_id">31062003131307</data>
+      <data key="e_weight">560,865384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n122">
+      <data key="e_id">31062003127701</data>
+      <data key="e_weight">467,480769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n84">
+      <data key="e_id">31062003170107</data>
+      <data key="e_weight">215,230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n114">
+      <data key="e_id">31062003170701</data>
+      <data key="e_weight">44,2692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n11">
+      <data key="e_id">31062005002704</data>
+      <data key="e_weight">214,865384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n15">
+      <data key="e_id">31062003543402</data>
+      <data key="e_weight">361,480769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n30">
+      <data key="e_id">31062004205407</data>
+      <data key="e_weight">442,096153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n138">
+      <data key="e_id">31062003300704</data>
+      <data key="e_weight">121,442307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n141">
+      <data key="e_id">31062005204508</data>
+      <data key="e_weight">47,3461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n57">
+      <data key="e_id">31062004108304</data>
+      <data key="e_weight">7,17307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n59">
+      <data key="e_id">31062003549904</data>
+      <data key="e_weight">81,9230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n144">
+      <data key="e_id">31062003202405</data>
+      <data key="e_weight">2,40384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n150">
+      <data key="e_id">31062003300100</data>
+      <data key="e_weight">0,134615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n11" target="n124">
+      <data key="e_id">31062003525904</data>
+      <data key="e_weight">0,0576923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n146">
+      <data key="e_id">31367023509502</data>
+      <data key="e_weight">471,230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n146">
+      <data key="e_id">31367023550308</data>
+      <data key="e_weight">449,711538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n108">
+      <data key="e_id">31433023550308</data>
+      <data key="e_weight">533,384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n108">
+      <data key="e_id">31433023304557</data>
+      <data key="e_weight">2,94230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n108">
+      <data key="e_id">31433023509502</data>
+      <data key="e_weight">0,480769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n108">
+      <data key="e_id">31433023543402</data>
+      <data key="e_weight">1,17307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n59" target="n108">
+      <data key="e_id">31433023549904</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n84">
+      <data key="e_id">31701073509502</data>
+      <data key="e_weight">0,634615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n84">
+      <data key="e_id">31701073550308</data>
+      <data key="e_weight">54,8076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n84">
+      <data key="e_id">31701075208707</data>
+      <data key="e_weight">0,423076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n52">
+      <data key="e_id">31702063550308</data>
+      <data key="e_weight">4076,05769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n52">
+      <data key="e_id">31702063509502</data>
+      <data key="e_weight">1519,67307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n52">
+      <data key="e_id">31702063543402</data>
+      <data key="e_weight">21,2692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n52">
+      <data key="e_id">31702063304557</data>
+      <data key="e_weight">53,3653846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n52">
+      <data key="e_id">31702065208707</data>
+      <data key="e_weight">0,826923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n52">
+      <data key="e_id">31702065300108</data>
+      <data key="e_weight">260,519230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n43">
+      <data key="e_id">32053093550308</data>
+      <data key="e_weight">11467,8269230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n43">
+      <data key="e_id">32053093304557</data>
+      <data key="e_weight">5825,76923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n43">
+      <data key="e_id">32053095300108</data>
+      <data key="e_weight">1571,03846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n43">
+      <data key="e_id">32053093509502</data>
+      <data key="e_weight">3631,03846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n43">
+      <data key="e_id">32053094106902</data>
+      <data key="e_weight">5,21153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n43">
+      <data key="e_id">32053093543402</data>
+      <data key="e_weight">2,65384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n43">
+      <data key="e_id">32053095208707</data>
+      <data key="e_weight">1,92307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n16" target="n43">
+      <data key="e_id">32053093549805</data>
+      <data key="e_weight">0,0961538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n150">
+      <data key="e_id">33001003304557</data>
+      <data key="e_weight">1,23076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n150">
+      <data key="e_id">33001003550308</data>
+      <data key="e_weight">2,82692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n138">
+      <data key="e_id">33007043550308</data>
+      <data key="e_weight">234,423076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n138">
+      <data key="e_id">33007043304557</data>
+      <data key="e_weight">1,67307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n151">
+      <data key="e_id">33010093304557</data>
+      <data key="e_weight">76,5384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n151" target="n157">
+      <data key="e_id">33010093302403</data>
+      <data key="e_weight">0,384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n157">
+      <data key="e_id">33024033304557</data>
+      <data key="e_weight">112,173076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n157">
+      <data key="e_id">33024033550308</data>
+      <data key="e_weight">63,7307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n158">
+      <data key="e_id">33038073304557</data>
+      <data key="e_weight">0,923076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n158">
+      <data key="e_id">33038073550308</data>
+      <data key="e_weight">2,34615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n18">
+      <data key="e_id">33045573550308</data>
+      <data key="e_weight">53908,9807692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n18">
+      <data key="e_id">33045575300108</data>
+      <data key="e_weight">18415,4038461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n18">
+      <data key="e_id">33045573509502</data>
+      <data key="e_weight">11103,8461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n29">
+      <data key="e_id">33045574314902</data>
+      <data key="e_weight">8707,44230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n27">
+      <data key="e_id">33045574106902</data>
+      <data key="e_weight">6257,73076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n30">
+      <data key="e_id">33045574205407</data>
+      <data key="e_weight">2649,55769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n77">
+      <data key="e_id">33045574208203</data>
+      <data key="e_weight">1584,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n57">
+      <data key="e_id">33045574108304</data>
+      <data key="e_weight">2881,63461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n18">
+      <data key="e_id">33045575208707</data>
+      <data key="e_weight">1619,63461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n18">
+      <data key="e_id">33045575103403</data>
+      <data key="e_weight">564,673076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n18">
+      <data key="e_id">33045575002704</data>
+      <data key="e_weight">15,2692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n18">
+      <data key="e_id">33045573543402</data>
+      <data key="e_weight">407,923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n59">
+      <data key="e_id">33045573549904</data>
+      <data key="e_weight">48,5384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n18" target="n124">
+      <data key="e_id">33045573525904</data>
+      <data key="e_weight">0,173076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n16" target="n18">
+      <data key="e_id">33045573549805</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n86">
+      <data key="e_id">35028043509502</data>
+      <data key="e_weight">972,576923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n86">
+      <data key="e_id">35028043550308</data>
+      <data key="e_weight">472,942307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n161">
+      <data key="e_id">35032083509502</data>
+      <data key="e_weight">88,1923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n162">
+      <data key="e_id">35055003550308</data>
+      <data key="e_weight">20,8269230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n85">
+      <data key="e_id">35060033509502</data>
+      <data key="e_weight">666,884615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n85" target="n160">
+      <data key="e_id">35060033529005</data>
+      <data key="e_weight">1,48076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n85">
+      <data key="e_id">35060033550308</data>
+      <data key="e_weight">450,288461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n85" target="n93">
+      <data key="e_id">35060034113700</data>
+      <data key="e_weight">1,28846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n12" target="n85">
+      <data key="e_id">35060035107909</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n85">
+      <data key="e_id">35060033543402</data>
+      <data key="e_weight">0,980769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n29">
+      <data key="e_id">35095024314902</data>
+      <data key="e_weight">8312,65384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n17">
+      <data key="e_id">35095023550308</data>
+      <data key="e_weight">2,42307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_id">35095025300108</data>
+      <data key="e_weight">7694,84615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_id">35095025103403</data>
+      <data key="e_weight">5218,90384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n27">
+      <data key="e_id">35095024106902</data>
+      <data key="e_weight">6935,63461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n10">
+      <data key="e_id">35095025208707</data>
+      <data key="e_weight">4293,09615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n77">
+      <data key="e_id">35095024208203</data>
+      <data key="e_weight">3375,73076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n30">
+      <data key="e_id">35095024205407</data>
+      <data key="e_weight">4395</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_id">35095025002704</data>
+      <data key="e_weight">3143,44230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n153">
+      <data key="e_id">35095024209102</data>
+      <data key="e_weight">1023,46153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n15">
+      <data key="e_id">35095023543402</data>
+      <data key="e_weight">1781,88461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n28">
+      <data key="e_id">35095024115200</data>
+      <data key="e_weight">1287,36538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n16">
+      <data key="e_id">35095023549805</data>
+      <data key="e_weight">1822,13461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n93">
+      <data key="e_id">35095024113700</data>
+      <data key="e_weight">1716,11538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n165">
+      <data key="e_id">35095024314100</data>
+      <data key="e_weight">462,134615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n148">
+      <data key="e_id">35095025003702</data>
+      <data key="e_weight">508</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n152">
+      <data key="e_id">35095024204202</data>
+      <data key="e_weight">1321,38461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n110">
+      <data key="e_id">35095023541406</data>
+      <data key="e_weight">963,692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n149">
+      <data key="e_id">35095024104808</data>
+      <data key="e_weight">781,942307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n166">
+      <data key="e_id">35095024208807</data>
+      <data key="e_weight">197,115384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n156">
+      <data key="e_id">35095025107602</data>
+      <data key="e_weight">345,942307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n159">
+      <data key="e_id">35095024305108</data>
+      <data key="e_weight">185,288461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n145">
+      <data key="e_id">35095025218805</data>
+      <data key="e_weight">237,038461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n57">
+      <data key="e_id">35095024108304</data>
+      <data key="e_weight">1253,78846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n155">
+      <data key="e_id">35095025008305</data>
+      <data key="e_weight">99,7884615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n167">
+      <data key="e_id">35095025003207</data>
+      <data key="e_weight">108,730769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n12">
+      <data key="e_id">35095025107909</data>
+      <data key="e_weight">563,615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n164">
+      <data key="e_id">35095025002209</data>
+      <data key="e_weight">103,442307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n160">
+      <data key="e_id">35095023529005</data>
+      <data key="e_weight">410,692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n163">
+      <data key="e_id">35095024119905</data>
+      <data key="e_weight">89,5576923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n141">
+      <data key="e_id">35095025204508</data>
+      <data key="e_weight">83,0769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n59">
+      <data key="e_id">35095023549904</data>
+      <data key="e_weight">0,115384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n169">
+      <data key="e_id">35095024109401</data>
+      <data key="e_weight">16,3076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n4" target="n124">
+      <data key="e_id">35095023525904</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n172">
+      <data key="e_id">35105003550308</data>
+      <data key="e_weight">2,80769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n173">
+      <data key="e_id">35162003550308</data>
+      <data key="e_weight">12,9807692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n124">
+      <data key="e_id">35259043550308</data>
+      <data key="e_weight">0,0769230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n160">
+      <data key="e_id">35290053550308</data>
+      <data key="e_weight">54,5961538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n110">
+      <data key="e_id">35414063550308</data>
+      <data key="e_weight">1000,01923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n110">
+      <data key="e_id">35414064106902</data>
+      <data key="e_weight">3,86538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n110">
+      <data key="e_id">35414065103403</data>
+      <data key="e_weight">0,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n110">
+      <data key="e_id">35414063543402</data>
+      <data key="e_weight">1,11538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n110">
+      <data key="e_id">35414065002704</data>
+      <data key="e_weight">0,980769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n17">
+      <data key="e_id">35434023550308</data>
+      <data key="e_weight">2789,51923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n15">
+      <data key="e_id">35434025208707</data>
+      <data key="e_weight">219,346153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n27">
+      <data key="e_id">35434024106902</data>
+      <data key="e_weight">97,0961538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n15">
+      <data key="e_id">35434025300108</data>
+      <data key="e_weight">243,384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n16">
+      <data key="e_id">35434023549805</data>
+      <data key="e_weight">1,32692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n15">
+      <data key="e_id">35434025103403</data>
+      <data key="e_weight">2,69230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n29">
+      <data key="e_id">35434024314902</data>
+      <data key="e_weight">0,634615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n15">
+      <data key="e_id">35434025002704</data>
+      <data key="e_weight">0,423076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n30">
+      <data key="e_id">35434024205407</data>
+      <data key="e_weight">1,82692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n145">
+      <data key="e_id">35434025218805</data>
+      <data key="e_weight">0,0961538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n148">
+      <data key="e_id">35434025003702</data>
+      <data key="e_weight">0,442307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n93">
+      <data key="e_id">35434024113700</data>
+      <data key="e_weight">0,326923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n165">
+      <data key="e_id">35434024314100</data>
+      <data key="e_weight">0,0769230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n152">
+      <data key="e_id">35434024204202</data>
+      <data key="e_weight">0,192307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n15" target="n153">
+      <data key="e_id">35434024209102</data>
+      <data key="e_weight">2,30769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n175">
+      <data key="e_id">35485003550308</data>
+      <data key="e_weight">2,11538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n16" target="n17">
+      <data key="e_id">35498053550308</data>
+      <data key="e_weight">3091,15384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n16">
+      <data key="e_id">35498055103403</data>
+      <data key="e_weight">262,634615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n16">
+      <data key="e_id">35498055300108</data>
+      <data key="e_weight">365,980769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n59">
+      <data key="e_id">35499043550308</data>
+      <data key="e_weight">0,307692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n59">
+      <data key="e_id">35499044314902</data>
+      <data key="e_weight">2,38461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n29">
+      <data key="e_id">35503084314902</data>
+      <data key="e_weight">32724,4038461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n17">
+      <data key="e_id">35503085300108</data>
+      <data key="e_weight">29479,3269230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n27">
+      <data key="e_id">35503084106902</data>
+      <data key="e_weight">22364,5192307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n17">
+      <data key="e_id">35503085208707</data>
+      <data key="e_weight">13552,8461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n30">
+      <data key="e_id">35503084205407</data>
+      <data key="e_weight">18794,7692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n17">
+      <data key="e_id">35503085103403</data>
+      <data key="e_weight">10635,2307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n17">
+      <data key="e_id">35503085002704</data>
+      <data key="e_weight">7786,38461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n77">
+      <data key="e_id">35503084208203</data>
+      <data key="e_weight">11473,4038461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n153">
+      <data key="e_id">35503084209102</data>
+      <data key="e_weight">2637,42307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n93">
+      <data key="e_id">35503084113700</data>
+      <data key="e_weight">3462,94230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n28">
+      <data key="e_id">35503084115200</data>
+      <data key="e_weight">3660,01923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n57">
+      <data key="e_id">35503084108304</data>
+      <data key="e_weight">8323,73076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n152">
+      <data key="e_id">35503084204202</data>
+      <data key="e_weight">2329,76923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n159">
+      <data key="e_id">35503084305108</data>
+      <data key="e_weight">843,192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n149">
+      <data key="e_id">35503084104808</data>
+      <data key="e_weight">1156,82692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n141">
+      <data key="e_id">35503085204508</data>
+      <data key="e_weight">216,480769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n165">
+      <data key="e_id">35503084314100</data>
+      <data key="e_weight">941,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n166">
+      <data key="e_id">35503084208807</data>
+      <data key="e_weight">735,076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n12" target="n17">
+      <data key="e_id">35503085107909</data>
+      <data key="e_weight">673,153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n148">
+      <data key="e_id">35503085003702</data>
+      <data key="e_weight">358,403846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n145">
+      <data key="e_id">35503085218805</data>
+      <data key="e_weight">87,8653846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n17" target="n163">
+      <data key="e_id">35503084119905</data>
+      <data key="e_weight">83,1923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n176">
+      <data key="e_id">41015074106902</data>
+      <data key="e_weight">1,36538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n177">
+      <data key="e_id">41043034106902</data>
+      <data key="e_weight">6,94230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n149">
+      <data key="e_id">41048084106902</data>
+      <data key="e_weight">487,826923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n30" target="n149">
+      <data key="e_id">41048084205407</data>
+      <data key="e_weight">0,903846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n178">
+      <data key="e_id">41055084106902</data>
+      <data key="e_weight">4,53846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n179" target="n180">
+      <data key="e_id">41064074127106</data>
+      <data key="e_weight">0,653846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n27">
+      <data key="e_id">41069025300108</data>
+      <data key="e_weight">3292,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n29">
+      <data key="e_id">41069024314902</data>
+      <data key="e_weight">3500,88461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n93">
+      <data key="e_id">41069024113700</data>
+      <data key="e_weight">689,942307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n27">
+      <data key="e_id">41069025002704</data>
+      <data key="e_weight">289,826923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n28">
+      <data key="e_id">41069024115200</data>
+      <data key="e_weight">680,326923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n57">
+      <data key="e_id">41069024108304</data>
+      <data key="e_weight">1286,07692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n168">
+      <data key="e_id">41069024209300</data>
+      <data key="e_weight">106,923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n27">
+      <data key="e_id">41069025103403</data>
+      <data key="e_weight">258,538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n181">
+      <data key="e_id">41069024118501</data>
+      <data key="e_weight">127,057692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n182">
+      <data key="e_id">41069024127700</data>
+      <data key="e_weight">122,365384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n183">
+      <data key="e_id">41069024108809</data>
+      <data key="e_weight">5,61538461538461</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n180">
+      <data key="e_id">41069024127106</data>
+      <data key="e_weight">4,86538461538461</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n184">
+      <data key="e_id">41069024118204</data>
+      <data key="e_weight">1,96153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n185">
+      <data key="e_id">41069024128203</data>
+      <data key="e_weight">5,17307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n30">
+      <data key="e_id">41069024205407</data>
+      <data key="e_weight">0,0192307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n186">
+      <data key="e_id">41069024118402</data>
+      <data key="e_weight">5,67307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n27" target="n187">
+      <data key="e_id">41069024108403</data>
+      <data key="e_weight">1,28846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n57">
+      <data key="e_id">41083044314902</data>
+      <data key="e_weight">461,961538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n57">
+      <data key="e_id">41083045300108</data>
+      <data key="e_weight">222</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n57" target="n77">
+      <data key="e_id">41083044208203</data>
+      <data key="e_weight">0,884615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n185" target="n187">
+      <data key="e_id">41084034128203</data>
+      <data key="e_weight">2,51923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n93">
+      <data key="e_id">41137005103403</data>
+      <data key="e_weight">141,173076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n28" target="n93">
+      <data key="e_id">41137004115200</data>
+      <data key="e_weight">0,711538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n93">
+      <data key="e_id">41137005300108</data>
+      <data key="e_weight">42,3653846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n30" target="n152">
+      <data key="e_id">42042024205407</data>
+      <data key="e_weight">947</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n152">
+      <data key="e_id">42042024314902</data>
+      <data key="e_weight">22,0769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n30">
+      <data key="e_id">42054075300108</data>
+      <data key="e_weight">1954,94230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n30">
+      <data key="e_id">42054074314902</data>
+      <data key="e_weight">1270,13461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n77">
+      <data key="e_id">42082034314902</data>
+      <data key="e_weight">556,25</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n77">
+      <data key="e_id">42082035300108</data>
+      <data key="e_weight">69,3269230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n192">
+      <data key="e_id">43016024314902</data>
+      <data key="e_weight">11,0576923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n193">
+      <data key="e_id">43044084314902</data>
+      <data key="e_weight">5,17307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n159">
+      <data key="e_id">43051084314902</data>
+      <data key="e_weight">0,0769230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n165">
+      <data key="e_id">43141004314902</data>
+      <data key="e_weight">12,9038461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n191">
+      <data key="e_id">43144074314902</data>
+      <data key="e_weight">165,788461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n29">
+      <data key="e_id">43149025300108</data>
+      <data key="e_weight">4421,53846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n197">
+      <data key="e_id">43149024316907</data>
+      <data key="e_weight">180,980769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n196">
+      <data key="e_id">43149024317509</data>
+      <data key="e_weight">91,0961538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n198">
+      <data key="e_id">43149024322400</data>
+      <data key="e_weight">84,5192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n29">
+      <data key="e_id">43149025103403</data>
+      <data key="e_weight">4,42307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n195">
+      <data key="e_id">43149024317202</data>
+      <data key="e_weight">7,28846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n194">
+      <data key="e_id">43149024315602</data>
+      <data key="e_weight">8,46153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n199">
+      <data key="e_id">43149024318002</data>
+      <data key="e_weight">7,46153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n29">
+      <data key="e_id">43149025002704</data>
+      <data key="e_weight">20,6153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n29" target="n200">
+      <data key="e_id">43149024321501</data>
+      <data key="e_weight">3,76923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n164" target="n167">
+      <data key="e_id">50022095003207</data>
+      <data key="e_weight">0,192307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n164">
+      <data key="e_id">50022095002704</data>
+      <data key="e_weight">0,230769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n9">
+      <data key="e_id">50027045300108</data>
+      <data key="e_weight">1097,92307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_id">50027045103403</data>
+      <data key="e_weight">735,846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n2" target="n53">
+      <data key="e_id">50027045100250</data>
+      <data key="e_weight">0,0961538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n201">
+      <data key="e_id">51002015103403</data>
+      <data key="e_weight">17,2307692307692</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n82" target="n201">
+      <data key="e_id">51002015107859</data>
+      <data key="e_weight">5,55769230769231</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n80" target="n201">
+      <data key="e_id">51002015103353</data>
+      <data key="e_weight">0,0384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n201" target="n202">
+      <data key="e_id">51002015102702</data>
+      <data key="e_weight">1,82692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n201" target="n203">
+      <data key="e_id">51002015107040</data>
+      <data key="e_weight">1,15384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n53">
+      <data key="e_id">51002505103403</data>
+      <data key="e_weight">658,826923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n206" target="n207">
+      <data key="e_id">51014075105150</data>
+      <data key="e_weight">2,71153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n10" target="n174">
+      <data key="e_id">51018035208707</data>
+      <data key="e_weight">11,1538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n174">
+      <data key="e_id">51018035103403</data>
+      <data key="e_weight">47,8076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n202">
+      <data key="e_id">51027025103403</data>
+      <data key="e_weight">0,403846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n202" target="n203">
+      <data key="e_id">51027025107040</data>
+      <data key="e_weight">1,34615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n80" target="n82">
+      <data key="e_id">51033535107859</data>
+      <data key="e_weight">0,173076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n9">
+      <data key="e_id">51034035300108</data>
+      <data key="e_weight">3323,65384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n12">
+      <data key="e_id">51034035107909</data>
+      <data key="e_weight">1180,92307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n10">
+      <data key="e_id">51034035208707</data>
+      <data key="e_weight">373,076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n208">
+      <data key="e_id">51034035107958</data>
+      <data key="e_weight">25,1730769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n209">
+      <data key="e_id">51034035107925</data>
+      <data key="e_weight">220,480769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n156">
+      <data key="e_id">51034035107602</data>
+      <data key="e_weight">62,0192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n206">
+      <data key="e_id">51034035105150</data>
+      <data key="e_weight">36,6346153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n205">
+      <data key="e_id">51034035105101</data>
+      <data key="e_weight">0,576923076923077</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n210">
+      <data key="e_id">51034035105259</data>
+      <data key="e_weight">0,865384615384615</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n211">
+      <data key="e_id">51034035106224</data>
+      <data key="e_weight">1,48076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n212">
+      <data key="e_id">51034035106752</data>
+      <data key="e_weight">1,13461538461538</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n1" target="n203">
+      <data key="e_id">51034035107040</data>
+      <data key="e_weight">3,71153846153846</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n205" target="n206">
+      <data key="e_id">51051015105150</data>
+      <data key="e_weight">0,5</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n206" target="n208">
+      <data key="e_id">51051505107958</data>
+      <data key="e_weight">18,0192307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n206" target="n210">
+      <data key="e_id">51051505105259</data>
+      <data key="e_weight">0,423076923076923</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n206" target="n211">
+      <data key="e_id">51051505106224</data>
+      <data key="e_weight">0,307692307692308</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n210" target="n211">
+      <data key="e_id">51052595106224</data>
+      <data key="e_weight">0,153846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n208" target="n212">
+      <data key="e_id">51067525107958</data>
+      <data key="e_weight">2,61538461538462</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n156">
+      <data key="e_id">51076025300108</data>
+      <data key="e_weight">0,384615384615385</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n156" target="n209">
+      <data key="e_id">51076025107925</data>
+      <data key="e_weight">0,153846153846154</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n209">
+      <data key="e_id">51079255300108</data>
+      <data key="e_weight">0,269230769230769</data>
+      <data key="e_width">0,39</data>
+    </edge>
+    <edge source="n9" target="n10">
+      <data key="e_id">52087075300108</data>
+      <data key="e_weight">2744,75</data>
+      <data key="e_width">0,39</data>
+    </edge>
+  </graph>
+</graphml>
